@@ -18,7 +18,7 @@ function criarTarefa(tarefa) {
 
 function removerTarefa(item) {
     const botaoRemover = document.createElement('button'); // cria o botão de remover tarefa e o coloca como filho do item (<li>)
-        botaoRemover.textContent = 'Remover tarefa';
+        botaoRemover.textContent = 'Deletar';
         item.appendChild(botaoRemover);
     return botaoRemover;    
 }
