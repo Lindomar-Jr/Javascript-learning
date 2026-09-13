@@ -2,6 +2,10 @@
 
 Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript puro.
 
+## Preview
+
+![Preview da lista de tarefas](./Video%20Project%207.gif)
+
 ## Funcionalidades
 
 - Adicionar novas tarefas pelo formulário.
@@ -29,6 +33,7 @@ Também é possível abrir a pasta no Visual Studio Code e usar uma extensão co
 
 ```text
 lista-de-tarefas/
+├── Video Project 7.gif
 ├── index.html
 ├── css/
 │   └── style.css
